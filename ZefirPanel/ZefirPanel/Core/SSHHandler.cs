@@ -16,6 +16,8 @@ namespace ZefirPanel.Core
         private static List<string> _openedIps = new List<string>();
         private static List<string> _clientOutputs = new List<string>();
 
+        private int _maxLines = 20;
+
         public bool IsChannelOpen
         {
             get { return _isChannelOpen; }
@@ -69,6 +71,14 @@ namespace ZefirPanel.Core
 
                 //_output += data.Replace("\b\u001b[K \b", "");
                 _output += replaced;
+                //_output = _output.Replace("\n", "");
+
+                var result = Regex.Split(_output, "\r\n|\r|\n").ToList();
+                if (result.Count > _maxLines)
+                    result.RemoveAt(0);
+                _output = "";
+                for (int i = 0; i < result.Count; i++)
+                    _output += result[i] + "\n";
             }
             else if (data.Length > 7)
                 _output += data.Substring(0, data.Length - 1);

@@ -2,6 +2,7 @@
 using Renci.SshNet;
 using System.Net.WebSockets;
 using System.Text;
+using System.Text.RegularExpressions;
 using ZefirPanel.Core;
 
 namespace ZefirPanel.Controllers
@@ -10,6 +11,8 @@ namespace ZefirPanel.Controllers
     [Route("[controller]")]
     public class GetConsoleController : ControllerBase
     {
+        private int _maxLines = 20;
+
         [HttpGet]
         public async Task<string> PostAsync()
         {
@@ -28,9 +31,9 @@ namespace ZefirPanel.Controllers
 
                     while (!HttpContext.RequestAborted.IsCancellationRequested)
                     {
-                        //string asdasdas = shandler.GetOutput();
-                        //Console.WriteLine(asdasdas);
-                        byte[] bytes = Encoding.UTF8.GetBytes(shandler.GetOutput());
+                        string data = shandler.GetOutput();
+
+                        byte[] bytes = Encoding.UTF8.GetBytes(data);
                         await webSocket.SendAsync(new System.ArraySegment<byte>(bytes),
                             WebSocketMessageType.Text, true, CancellationToken.None);
 

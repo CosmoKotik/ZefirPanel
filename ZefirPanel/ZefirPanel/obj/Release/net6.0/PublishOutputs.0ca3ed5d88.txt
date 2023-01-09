@@ -1,0 +1,14 @@
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\ZefirPanel.exe
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\ZefirPanel.dll
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\ZefirPanel.deps.json
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\ZefirPanel.runtimeconfig.json
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\ZefirPanel.pdb
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Renci.SshNet.dll
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\SshNet.Security.Cryptography.dll
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DEV\NEW\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
