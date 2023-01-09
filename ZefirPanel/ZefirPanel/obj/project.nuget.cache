@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VUR96II1C1P9MW1GDsiuoJlW19x8ed/92GHJXPsccxFcDrtOi4IQABvJX26KtQa3oV7g7Z/6DPdF5Z3kVpTvpw==",
+  "dgSpecHash": "uSwJ3L6Xu3LWvibavkmaH1VDpXmVRVJBQOwcZhBPuoCpX8t31IMUVFe/Zr+jC7BOXQnuI9q7BzCNTlBuesNA6Q==",
   "success": true,
-  "projectFilePath": "D:\\DEV\\NEW\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj",
+  "projectFilePath": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CosmoKotik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\CosmoKotik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

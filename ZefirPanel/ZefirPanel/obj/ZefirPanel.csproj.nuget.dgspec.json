@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DEV\\NEW\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj": {}
+    "C:\\Users\\CosmoKotik\\Documents\\GitHub\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj": {}
   },
   "projects": {
-    "D:\\DEV\\NEW\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj": {
+    "C:\\Users\\CosmoKotik\\Documents\\GitHub\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEV\\NEW\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj",
+        "projectUniqueName": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj",
         "projectName": "ZefirPanel",
-        "projectPath": "D:\\DEV\\NEW\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj",
+        "projectPath": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj",
         "packagesPath": "C:\\Users\\CosmoKotik\\.nuget\\packages\\",
-        "outputPath": "D:\\DEV\\NEW\\ZefirPanel\\ZefirPanel\\ZefirPanel\\obj\\",
+        "outputPath": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\ZefirPanel\\ZefirPanel\\ZefirPanel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CosmoKotik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,8 +59,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

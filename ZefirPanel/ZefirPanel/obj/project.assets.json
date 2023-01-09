@@ -16,27 +16,19 @@
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
         }
       },
       "Newtonsoft.Json/13.0.2": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Newtonsoft.Json.dll": {}
         }
       },
       "SSH.NET/2020.0.2": {
@@ -45,27 +37,19 @@
           "SshNet.Security.Cryptography": "[1.3.0]"
         },
         "compile": {
-          "lib/netstandard2.0/Renci.SshNet.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Renci.SshNet.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Renci.SshNet.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Renci.SshNet.dll": {}
         }
       },
       "SshNet.Security.Cryptography/1.3.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/SshNet.Security.Cryptography.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/SshNet.Security.Cryptography.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/SshNet.Security.Cryptography.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/SshNet.Security.Cryptography.dll": {}
         }
       },
       "Swashbuckle.AspNetCore/6.2.3": {
@@ -86,14 +70,10 @@
           "Microsoft.OpenApi": "1.2.3"
         },
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -105,27 +85,19 @@
           "Swashbuckle.AspNetCore.Swagger": "6.2.3"
         },
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
         }
       },
       "Swashbuckle.AspNetCore.SwaggerUI/6.2.3": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -367,11 +339,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEV\\NEW\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj",
+      "projectUniqueName": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj",
       "projectName": "ZefirPanel",
-      "projectPath": "D:\\DEV\\NEW\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj",
+      "projectPath": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\ZefirPanel\\ZefirPanel\\ZefirPanel\\ZefirPanel.csproj",
       "packagesPath": "C:\\Users\\CosmoKotik\\.nuget\\packages\\",
-      "outputPath": "D:\\DEV\\NEW\\ZefirPanel\\ZefirPanel\\ZefirPanel\\obj\\",
+      "outputPath": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\ZefirPanel\\ZefirPanel\\ZefirPanel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CosmoKotik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -419,8 +391,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -432,7 +403,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
