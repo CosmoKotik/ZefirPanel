@@ -10,6 +10,12 @@ namespace ZefirPanel.Core
         public ShellStream Shell { get; set; } = null;
         public SshClient Client { get; set; } = null;
 
+        public static List<string> ClientOutputs
+        {
+            get { return _clientOutputs; }
+            set { ClientOutputs = _clientOutputs; }
+        }
+
         private static List<ShellStream> _openShells = new List<ShellStream>();
         private static List<SshClient> _openClients = new List<SshClient>();
         

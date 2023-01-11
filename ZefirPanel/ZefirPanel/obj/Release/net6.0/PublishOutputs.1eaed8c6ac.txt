@@ -1,0 +1,14 @@
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\ZefirPanel.exe
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\ZefirPanel.dll
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\ZefirPanel.deps.json
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\ZefirPanel.runtimeconfig.json
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\ZefirPanel.pdb
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Renci.SshNet.dll
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\SshNet.Security.Cryptography.dll
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CosmoKotik\Documents\GitHub\ZefirPanel\ZefirPanel\ZefirPanel\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
